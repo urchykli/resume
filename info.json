@@ -1,0 +1,18 @@
+{
+	"name": "Lindsay Urchyk",
+	"website": "https://urchykli.github.io/",
+	"linkedin": "https://www.linkedin.com/in/lindsayurchyk/",
+	"github": "urchykli",
+	"email": "urchykli@gmail.com",
+	// "resume": "https://perryf.github.io/img/resume-fustero.pdf",
+	"proficient-technologies": [
+			"html", 
+			"css", 
+			"javascript"
+	],
+	"other-skills": [
+		"eating",
+		"crafting",
+		"breathing"
+	]
+}

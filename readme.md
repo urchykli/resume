@@ -1,0 +1,1 @@
+Here is my "resume"! I used npm to create a file, which you can read by running the command npm install -g lindsayu
